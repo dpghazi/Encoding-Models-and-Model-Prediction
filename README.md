@@ -1,4 +1,4 @@
-# Encoding-Models-and-Model-Prediction
+# Encoding Models and Model Prediction
 - **Neuroscience / Neuroimaging concepts**
     - Encoding Models
     - Feature Spaces
