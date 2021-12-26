@@ -1,10 +1,10 @@
 # Encoding Models and Model Prediction
-- **Neuroscience / Neuroimaging concepts**
+- **Neuroscience / Neuroimaging Concepts**
     - Encoding Models
     - Feature Spaces
     - Building a predictive model of brain activity
     - Splitting fMRI data into testing and training sets
-- **Data Science / Coding concepts**
+- **Data Science / Coding Concepts**
     - Multiple Comparison Correction
     - Bonferroni Correction
     - Linear vs. non-linear transformations
