@@ -4,7 +4,7 @@
     - Feature Spaces
     - Building a predictive model of brain activity
     - Splitting fMRI data into testing and training sets
-- **Datascience / Coding concepts**
+- **Data Science / Coding concepts**
     - Multiple Comparison Correction
     - Bonferroni Correction
     - Linear vs. non-linear transformations
